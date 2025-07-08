@@ -1,4 +1,4 @@
-# Ignore system junk
+# Ignore system junks
 *.log
 *.tmp
 *.bak
